@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Pranjal Ghimire</h1>
-<h3 align="center">iOS developer from Nepal</h3>
+<h3 align="center">Cyber security enthusiast</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pranjal667" alt="pranjal667" /></a> </p>
 
-- 🔭 I’m currently working on **iOS Development.**
-
-- 🌱 I’m currently learning **NodeJS**
+- 🌱 I’m currently studying MIT in Cyber Security.
 
 - 📫 How to reach me **pranjalghimire667@gmail.com**
 
